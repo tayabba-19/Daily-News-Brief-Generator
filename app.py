@@ -9,7 +9,7 @@ st.set_page_config(
 )
 
 # ---------------- API CONFIG ----------------
-NEWSDATA_API_KEY = "PASTE_YOUR_NEWSDATA_API_KEY_HERE"
+NEWSDATA_API_KEY = "pub_aab44dd9e821419cb2ca4c650672ecb2"
 BASE_URL = "https://newsdata.io/api/1/news"
 
 # Categories supported by Newsdata.io
