@@ -5,7 +5,7 @@ from datetime import date
 # ---------------- CONFIG ----------------
 st.set_page_config(page_title="Daily News Brief Generator", layout="wide")
 
-NEWS_API_KEY = "PASTE_YOUR_NEWSAPI_KEY_HERE"
+NEWS_API_KEY = "pub_aab44dd9e821419cb2ca4c650672ecb2"
 BASE_URL = "https://newsapi.org/v2/top-headlines"
 
 CATEGORIES = ["technology", "business", "sports", "health", "entertainment", "politics"]
